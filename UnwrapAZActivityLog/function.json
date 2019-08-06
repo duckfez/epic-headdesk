@@ -13,7 +13,7 @@
       "type": "eventHub",
       "name": "eventHubOut",
       "direction": "out",
-      "eventHubName": "insights-operational-logs-split",
+      "eventHubName": "potato",
       "connection": "duanetest2_connect_EVENTHUB"
     }
 
